@@ -1,8 +1,8 @@
 # moz4haiku
-Modest attemps at building Mozilla apps under Haiku
+Modest attempt at building Mozilla apps under Haiku
 
-The build4haiku.sh will install pre-requisites, download the source code, and buld the bootstrap eecutables.
+build4haiku.sh will install pre-requisites, download the source code, and build the bootstrap executables.
 
-Make sure 'build4haiku.sh' has autorization to be executed. Run it from terminal.
+Make sure 'build4haiku.sh' has autorization to be executed.
 
 For now Mozilla applications cannot been built (yet, WIP).
